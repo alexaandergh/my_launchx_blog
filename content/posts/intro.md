@@ -6,9 +6,9 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 Para mis los valores que deben de acmopañar a un desarrollador son:
 
-1.Confianza
-2.Determinación
-3.Respeto
-4.Mentalidad abierta
+- Confianza
+- Determinación
+- Respeto
+- Mentalidad abierta
 
 Son los puntos mas importantes para mi.
