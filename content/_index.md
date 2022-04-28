@@ -7,5 +7,5 @@ Hola ✌️  soy el explorer Alexander y este es mi blog personal donde comparti
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
-Mi expectiva principal es ser un buen diseñador de front y backend ya que son dos temas bastantes interesantes para mi y que creo tiene un gran futuro dentrode la industria, demas de las facilidades que puede dar al desarrolo humano llevado de la mano junto a estas tecnologias.
+Mi expectiva principal es ser un buen diseñador de front y backend ya que son dos temas bastantes interesantes para mi y que creo tiene un gran futuro dentro de la industria, demas de las facilidades que puede dar al desarrolo humano llevado de la mano junto a estas tecnologias.
 🚀
